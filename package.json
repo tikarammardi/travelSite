@@ -1,0 +1,23 @@
+{
+  "name": "travelsite",
+  "version": "1.0.0",
+  "description": "this is sample site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tikarammardi/travelSite.git"
+  },
+  "author": "Tikaram Mardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tikarammardi/travelSite/issues"
+  },
+  "homepage": "https://github.com/tikarammardi/travelSite#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
